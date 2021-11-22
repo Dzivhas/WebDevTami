@@ -1,0 +1,53 @@
+html{
+  margin:0px;
+  padding:0px;
+}
+body{
+  margin:10px;
+  padding:10px;
+  color:blue;
+  text-align:center;
+}
+header{
+  font-family:italic;
+  font-size:1vw;
+  text-decoration:underline;
+  color:blue;
+  border:1px black solid;
+  border-radius:4px;
+  text-align: center;
+  margin:0;
+  padding:0;
+}
+ul{
+  list-style-type :none;
+  margin:0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  border:008080 1px solid;
+  border-radius:2px;
+}
+li a{
+  font-size:10px;
+  color:blue;
+  display:block;
+  background-color:white;
+  float:left;
+  padding:10px 15px
+}
+a:hover{
+  background-color:yellow;
+}
+.image{
+  border:2px #008080 solid;
+  border-radius:4px;
+  display: block;
+  margin-left: auto;
+  margin-right: 10px;
+  margin-top:5px;
+  float:left;
+
+
+
+}
